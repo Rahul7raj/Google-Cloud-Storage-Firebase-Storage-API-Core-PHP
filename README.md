@@ -1,4 +1,4 @@
-# Google-Cloud-Storage-Firebase-Storage-API--Core-PHP
+# Google-Cloud-Storage-Firebase-Storage-API-in-Core-PHP
 Using Google Cloud Storage or Firebase Storage APIs in core PHP code
 
 Used API - https://github.com/googleapis/google-cloud-php-storage
