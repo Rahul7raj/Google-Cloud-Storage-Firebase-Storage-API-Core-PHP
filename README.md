@@ -45,3 +45,5 @@ Or to install the entire suite of components at once:
   <p>If you want to auto delete files after some time then follow this 
 https://cloud.google.com/storage/docs/managing-lifecycles</p>
 
+<h3>Author</h3>
+<p><b>Rahul K Raj</b></p>
